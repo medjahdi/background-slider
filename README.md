@@ -1,7 +1,7 @@
 # background-slider
 ## Contact
 
-- **Portfolio**: [Your Portfolio](medjahdi.github.io/potfolio)
+- **Portfolio**: [My Portfolio](medjahdi.github.io/potfolio)
 - **Buy Me a Coffee**: [Buy Me a Coffee](https://buymeacoffee.com/medjahdi)
 
 ---
